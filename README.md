@@ -1,0 +1,1 @@
+Starting this course 12-21-2022. Hope to get an even deeper understanding of React to build efficient and modern web apps. So far I have taken, web dev course, junior to senior, python courses. 
